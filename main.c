@@ -92,7 +92,7 @@ printf("**********************\n");
         printf("vous n avez pas un membre de la famille raba.\n");
     }
     printf("__________________________________________________________________________________________________\n\n\n");
-    printf("                ce programme est realise par l ingenieur Haytam Raba\n\n\n");
+    printf("                ce programme est realise par Haytam Raba\n\n\n");
     printf("______________________________________________________________________________________________________\n");
     return 0;
 }
